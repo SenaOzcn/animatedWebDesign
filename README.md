@@ -2,7 +2,7 @@
 
 Animated Website Design Using ***HTML And CSS***.
 
-I created some **bubbles animation** and all these bubbles images will be moving from top to bottom of website, then it will disappear at bottom. 
+I created some **bubbles animation** and all these bubbles images moving from top to bottom of website, then it disappear at bottom. 
 
 All bubbles animation starting at different time. 
 
